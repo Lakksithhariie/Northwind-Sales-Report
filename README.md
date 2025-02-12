@@ -35,5 +35,4 @@ This report is built using the **Northwind OData API**, which provides structure
 3. **Refresh Data:** Click **Refresh** to load the latest sales data.
 4. **Explore Insights:** Use slicers and filters for deeper analysis.
 
-## 📂 Repository Structure
 
