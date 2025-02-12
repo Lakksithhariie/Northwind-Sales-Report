@@ -3,6 +3,8 @@
 ## Overview
 
 This Power BI dashboard analyzes Northwind Traders' sales performance, providing key insights into total revenue, order trends, and top-selling products. 
+![Sales Report](https://github.com/user-attachments/assets/1564577d-7d6f-4365-a087-2b7fa578831c)
+
 
 ## 📌 Key Metrics:
 - **Total Sales:** $1.33M
