@@ -36,3 +36,7 @@ This report is built using the **Northwind OData API**, which provides structure
 4. **Explore Insights:** Use slicers and filters for deeper analysis.
 
 
+---
+
+📍 *Created for business intelligence analysis and reporting.*
+
